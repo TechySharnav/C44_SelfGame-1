@@ -1,4 +1,4 @@
-var gameState = 1;
+var gameState = 0;
 var dial1, dial2, dial3, dial4, dial5, dial6;
 var nextBtnClickCount = 0;
 var bgImg;
